@@ -3,3 +3,4 @@ pillow
 numpy
 django
 djangorestframework
+django-cors-headers
